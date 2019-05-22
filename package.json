@@ -1,6 +1,6 @@
 {
   "name": "@supergose/custom-ricerca-cliente",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
     "build-lib": "vue-cli-service build --target lib --name RicercaCliente src/components/RicercaCliente.vue",
     "lint": "vue-cli-service lint"
   },
-  "main": "src/components/RicercaCliente.vue",
+  "main": "dist/RicercaCliente.umd.min.js",
   "files": [
     "dist/*",
     "src/*",
