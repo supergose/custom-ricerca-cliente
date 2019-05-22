@@ -1,10 +1,10 @@
 {
   "name": "@supergose/custom-ricerca-cliente",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "MIT",
   "repository": {
-    "type" : "git"
-  , "url" : "https://github.com/supergose/custom-ricerca-cliente.git"
+    "type": "git",
+    "url": "https://github.com/supergose/custom-ricerca-cliente.git"
   },
   "keywords": [
     "vue",
@@ -25,6 +25,7 @@
     "*.js"
   ],
   "dependencies": {
+    "@supergose/jsonplaceholder-services": "^0.1.0",
     "core-js": "^2.6.5",
     "vue": "^2.6.10"
   },
